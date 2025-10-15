@@ -8,11 +8,14 @@ Taller de Programaci
 ## Nombre de Estudinate
 Isacc Eleazar Surci CUti
 
-## NOmbre del Proyecto
-Creacion de un paisaje de Boloivia (Lago Titicaca), conn
-HTML y CSS.
+## Nombre del Proyecto
+Creacion de una calculadora con
+HTML, CSS y JS.
 
 ## Descripci
 Con las instrucciones dadas por el docente, realize la creacion de una
 calculadora que cumple con las operaciones que el docente especifico.
-## Enlace de la animacion (pasisaje) 
+
+## Enlace de la calculadora  
+
+https://isaac1sur.github.io/2do_proyecto_calculadora/
